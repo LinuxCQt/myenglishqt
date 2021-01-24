@@ -1,0 +1,3 @@
+Desde la carpeta donde tengamos el ejecutable:
+
+C:\Qt\5.15.2\mingw81_64\bin\windeployqt MyEnglishQt.exe
